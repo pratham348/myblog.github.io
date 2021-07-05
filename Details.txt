@@ -1,0 +1,2 @@
+Model blogdetail-->view addblog.blade.php -->controller dbController-->Route add
+make $timestamps=false to avoid created at and updated at error
