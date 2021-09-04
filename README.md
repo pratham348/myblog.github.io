@@ -10,4 +10,4 @@ password - Admin@123
 
 -----For User Panel--------------
 go to
-http://localhost/Blog/public/login
+http://localhost/Blog/public/index
